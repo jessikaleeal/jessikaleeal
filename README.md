@@ -29,5 +29,5 @@
 
  
   ![Snake animation](https://github.com/jessikaleeal/jessikaleeal/blob/output/github-contribution-grid-snake.svg)
- 
+   
 </div>
